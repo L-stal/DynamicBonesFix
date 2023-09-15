@@ -1,5 +1,5 @@
 # DynamicBonesFix
-A small fix for the Dynamic Bones tool (You can find the tool <a href="https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743"> >HERE< </a>for the game engine Unity (R.I.P) 
+A small fix made for a friend who uses  the Dynamic Bones tool (You can find the tool <a href="https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743"> >HERE< </a> to streamline the workflow.
 # Unity Dynamic Bones Fix
 ## Description
 
