@@ -1,9 +1,6 @@
 # DynamicBonesFix
 A small fix for the Dynamic Bones tool (You can find the tool <a href="https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743"> >HERE< </a>for the game engine Unity (R.I.P) 
 # Unity Dynamic Bones Fix
-
-![Unity Logo](https://unity.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/unity-master-black.svg)
-
 ## Description
 
 This repository contains a small fix for a game component in Unity that enhances the functionality of the Dynamic Bones tool. When you apply the Dynamic Bones tool to an object, this fix ensures that the game object is automatically added to the component. This can help streamline your workflow when working with Dynamic Bones in Unity.
